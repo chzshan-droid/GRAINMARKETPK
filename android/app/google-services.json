@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228695772511",
+    "project_id": "grainmarketpk-80054",
+    "storage_bucket": "grainmarketpk-80054.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228695772511:android:6b0c2b9037916ac6eb3aea",
+        "android_client_info": {
+          "package_name": "com.grainmarketpk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC50sqUCoeVkho1Zqkjmg769Kopc-zqXho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
